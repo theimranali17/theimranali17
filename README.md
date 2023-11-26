@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/theimranali17/](https://www.linkedin.com/in/theimranali17/)
 
-- ⚡ Fun fact **I'm Always Passionate and Dedicated**
+- ⚡ Fun fact **Let Me Think...!😄**
 
 
 
