@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theimranali17" alt="theimranali17" /></a> </p>
 
 - 🔭 I’m currently Studying in **BSCS(AI) - Comsats University Islamabad**
-- 
+  
 - 👯 My Final Year Project is a **ML Based Web Application**
 
 - 🌱 I’m currently learning **Computer Vision - Open CV**
