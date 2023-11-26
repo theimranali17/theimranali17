@@ -1,12 +1,6 @@
-### Hi there 👋
 
 <!--
 **theimranali17/theimranali17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
 -->
 
 <h1 align="center">Hi 👋, I'm Imran Ali</h1>
@@ -16,11 +10,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theimranali17" alt="theimranali17" /></a> </p>
 
-- 🔭 I’m currently Studying in **BSCS - Comsats University Islamabad**
+- 🔭 I’m currently Studying in **BSCS(AI) - Comsats University Islamabad**
+- 
+- 👯 My Final Year Project is a **ML Based Web Application**
 
 - 🌱 I’m currently learning **Computer Vision - Open CV**
-
-- 👯 My Final Year Project is Almost Completed **ML Based Web Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theimranali17](https://github.com/theimranali17)
 
