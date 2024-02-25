@@ -3,7 +3,7 @@
 **theimranali17/theimranali17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![logo](https://github.com/theimranali17/theimranali17/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png)
+![logo](https://github.com/theimranali17/theimranali17/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Imran Ali</h1>
 <h3 align="center">A passionate Full Stack AI Web Developer</h3>
